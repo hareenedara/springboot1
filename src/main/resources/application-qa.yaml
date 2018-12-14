@@ -1,0 +1,10 @@
+server:
+  port: 8090
+
+acme:
+  db:
+    dbname: qa-refresh
+    server: diskstation
+    port: 3307
+    user: dev
+    password: Password01
